@@ -30,7 +30,7 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/pushpakgoel621/Jal-Sandhana-SIH24-Project.git
    cd <repository-folder>
    ```
 2. Install dependencies:
