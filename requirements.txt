@@ -1,0 +1,14 @@
+fastapi
+python-dotenv
+requests
+pydantic>=2.0
+langchain
+langchain-community
+uvicorn
+faiss-cpu
+torch
+transformers
+PyPDF2
+groq
+sentence-transformers
+requests
